@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/igd-exercise-hs/static/css/main.12f40967.chunk.css",
-    "main.js": "/igd-exercise-hs/static/js/main.5e6581ad.chunk.js",
-    "main.js.map": "/igd-exercise-hs/static/js/main.5e6581ad.chunk.js.map",
-    "runtime-main.js": "/igd-exercise-hs/static/js/runtime-main.761753a6.js",
-    "runtime-main.js.map": "/igd-exercise-hs/static/js/runtime-main.761753a6.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/igd-exercise-hs/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.a3dc7a22.chunk.js": "/igd-exercise-hs/static/js/2.a3dc7a22.chunk.js",
-    "static/js/2.a3dc7a22.chunk.js.map": "/igd-exercise-hs/static/js/2.a3dc7a22.chunk.js.map",
-    "index.html": "/igd-exercise-hs/index.html",
-    "precache-manifest.392baa060472f6447e6e5c9f463d9f71.js": "/igd-exercise-hs/precache-manifest.392baa060472f6447e6e5c9f463d9f71.js",
-    "service-worker.js": "/igd-exercise-hs/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/igd-exercise-hs/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.12f40967.chunk.css.map": "/igd-exercise-hs/static/css/main.12f40967.chunk.css.map",
-    "static/js/2.a3dc7a22.chunk.js.LICENSE.txt": "/igd-exercise-hs/static/js/2.a3dc7a22.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/igd-exercise-hs/static/media/logo.53cc366d.svg"
+    "main.css": "/igd-blinds-direct/static/css/main.12f40967.chunk.css",
+    "main.js": "/igd-blinds-direct/static/js/main.84ae676e.chunk.js",
+    "main.js.map": "/igd-blinds-direct/static/js/main.84ae676e.chunk.js.map",
+    "runtime-main.js": "/igd-blinds-direct/static/js/runtime-main.f1cf70a8.js",
+    "runtime-main.js.map": "/igd-blinds-direct/static/js/runtime-main.f1cf70a8.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/igd-blinds-direct/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a3dc7a22.chunk.js": "/igd-blinds-direct/static/js/2.a3dc7a22.chunk.js",
+    "static/js/2.a3dc7a22.chunk.js.map": "/igd-blinds-direct/static/js/2.a3dc7a22.chunk.js.map",
+    "index.html": "/igd-blinds-direct/index.html",
+    "precache-manifest.96213dcb599f33a97690ceff7189bbac.js": "/igd-blinds-direct/precache-manifest.96213dcb599f33a97690ceff7189bbac.js",
+    "service-worker.js": "/igd-blinds-direct/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/igd-blinds-direct/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.12f40967.chunk.css.map": "/igd-blinds-direct/static/css/main.12f40967.chunk.css.map",
+    "static/js/2.a3dc7a22.chunk.js.LICENSE.txt": "/igd-blinds-direct/static/js/2.a3dc7a22.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/igd-blinds-direct/static/media/logo.53cc366d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.761753a6.js",
+    "static/js/runtime-main.f1cf70a8.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.a3dc7a22.chunk.js",
     "static/css/main.12f40967.chunk.css",
-    "static/js/main.5e6581ad.chunk.js"
+    "static/js/main.84ae676e.chunk.js"
   ]
 }
